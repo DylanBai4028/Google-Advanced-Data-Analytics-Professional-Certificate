@@ -1,0 +1,23 @@
+# Get Started with Python #
+
+Course 2 of seven in the Google Advanced Data Analytics Professional Certificate program.
+
+### Course Description: ###
+This course delves into the fundamental aspects of Python programming, a vital tool in data analysis. Participants gain proficiency in Python's core concepts, including object-oriented programming, variables, data types, functions, conditional statements, loops, and data structures. Guided by Google professionals actively engaged in the field, learners engage in hands-on activities mirroring real-world tasks, augmenting their data analytics competencies for career readiness. Upon completion, learners will be adept at defining programming languages and Python's significance in data science, crafting Python scripts for data manipulation, implementing program control mechanisms, employing various loop structures, handling diverse data types and structures, and harnessing Python libraries like NumPy and pandas for advanced data analysis.
+
+Link: https://www.coursera.org/learn/get-started-with-python?specialization=google-advanced-data-analytics 
+
+#### Module 1: Hello, Python! ####
+You’ll begin by exploring the basics of Python programming and why Python is such a powerful tool for data analysis. You’ll learn about Jupyter Notebooks, an interactive environment for coding and data work. You’ll investigate how to use variables and data types to store and organize your data; and, you'll begin practising important coding skills.
+
+#### Module 2: Functions and Conditional Statements ####
+Next, you’ll discover how to call functions to perform useful actions on your data. You’ll also learn how to write conditional statements to tell the computer how to make decisions based on your instructions. And you’ll practice writing clean code that can be easily understood and reused by other data professionals.
+
+#### Module 3: Loops and Strings ####
+Here, you’ll learn how to use iterative statements, or loops, to automate repetitive tasks. You’ll also learn how to manipulate strings using slicing, indexing, and formatting. 
+
+#### Module 4: Data Structures in Python ####
+Now, you’ll explore fundamental data structures such as lists, tuples, dictionaries, sets, and arrays. Lastly, you’ll learn about two of the most widely used and important Python tools for advanced data analysis: NumPy and pandas. 
+
+#### Module 5: Course 2 End-of-Course Project ####
+You will put everything you have learned about Python so far into practice with an end-of-course project. You will select a business problem from a list of options and use the given data to solve the problem. This project is an opportunity to demonstrate your skills and build a professional portfolio you can use to showcase your work to potential employers. 
