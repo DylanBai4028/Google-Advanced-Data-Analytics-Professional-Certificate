@@ -1,6 +1,6 @@
 # Get Started with Python #
 
-Course 2 of seven in the Google Advanced Data Analytics Professional Certificate program.
+Course two of seven in the Google Advanced Data Analytics Professional Certificate program.
 
 ### Course Description: ###
 This course delves into the fundamental aspects of Python programming, a vital tool in data analysis. Participants gain proficiency in Python's core concepts, including object-oriented programming, variables, data types, functions, conditional statements, loops, and data structures. Guided by Google professionals actively engaged in the field, learners engage in hands-on activities mirroring real-world tasks, augmenting their data analytics competencies for career readiness. Upon completion, learners will be adept at defining programming languages and Python's significance in data science, crafting Python scripts for data manipulation, implementing program control mechanisms, employing various loop structures, handling diverse data types and structures, and harnessing Python libraries like NumPy and pandas for advanced data analysis.
